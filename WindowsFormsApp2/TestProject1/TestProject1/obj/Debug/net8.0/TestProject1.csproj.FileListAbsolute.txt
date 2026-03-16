@@ -1,0 +1,5 @@
+H:\учебная практика\WindowsFormsApp4\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.csproj.AssemblyReference.cache
+H:\учебная практика\WindowsFormsApp4\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+H:\учебная практика\WindowsFormsApp4\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+H:\учебная практика\WindowsFormsApp4\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+H:\учебная практика\WindowsFormsApp4\TestProject1\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache

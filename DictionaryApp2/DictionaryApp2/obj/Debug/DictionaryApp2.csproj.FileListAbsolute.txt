@@ -1,0 +1,10 @@
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp2.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp.Form1.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp2.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp2.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp2.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\bin\Debug\DictionaryApp2.exe.config
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\bin\Debug\DictionaryApp2.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\bin\Debug\DictionaryApp2.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp2.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\DictionaryApp2\DictionaryApp2\obj\Debug\DictionaryApp2.pdb

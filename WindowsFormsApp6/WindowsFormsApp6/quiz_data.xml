@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game>
+	<topics>
+		<!-- ТЕМА 1: РУССКИЕ ТРАДИЦИИ -->
+		<topic name="Русские традиции">
+			<!-- УРОВЕНЬ 1 (ЛЕГКИЙ) -->
+			<level difficulty="1">
+				<question text="Что на Руси символизировал венок?">
+					<answer right="yes">Солнце</answer>
+					<answer>Богатство</answer>
+					<answer>Любовь</answer>
+					<answer>Счастье</answer>
+				</question>
+
+				<question text="Какой праздник на Руси отмечали в день летнего солнцестояния?">
+					<answer right="yes">Иван Купала</answer>
+					<answer>Масленица</answer>
+					<answer>Рождество</answer>
+					<answer>Пасха</answer>
+				</question>
+
+				<question text="Что символизировала береза в русских традициях?">
+					<answer>Смерть</answer>
+					<answer right="yes">Жизнь и плодородие</answer>
+					<answer>Богатство</answer>
+					<answer>Мудрость</answer>
+				</question>
+
+				<question text="Как на Руси называли домового?">
+					<answer>Леший</answer>
+					<answer>Водяной</answer>
+					<answer right="yes">Хозяин</answer>
+					<answer>Кикимора</answer>
+				</question>
+
+				<question text="Что ели на Масленицу?">
+					<answer>Куличи</answer>
+					<answer right="yes">Блины</answer>
+					<answer>Пироги</answer>
+					<answer>Пряники</answer>
+				</question>
+			</level>
+
+			<!-- УРОВЕНЬ 2 (СРЕДНИЙ) -->
+			<level difficulty="2">
+				<question text="Какой обряд проводили на Руси при строительстве нового дома?">
+					<answer>Освящение водой</answer>
+					<answer right="yes">Закладка монет под угол</answer>
+					<answer>Танец вокруг дома</answer>
+					<answer>Пение песен</answer>
+				</question>
+
+				<question text="Что означало выражение 'бить баклуши'?">
+					<answer>Работать усердно</answer>
+					<answer right="yes">Бездельничать</answer>
+					<answer>Драться</answer>
+					<answer>Веселиться</answer>
+				</question>
+
+				<question text="Какой цвет на Руси считался обережным?">
+					<answer>Зеленый</answer>
+					<answer>Синий</answer>
+					<answer right="yes">Красный</answer>
+					<answer>Желтый</answer>
+				</question>
+
+				<question text="Что такое 'Святки'?">
+					<answer>Летний праздник</answer>
+					<answer right="yes">Зимние праздничные дни</answer>
+					<answer>Весенний обряд</answer>
+					<answer>Осенняя ярмарка</answer>
+				</question>
+
+				<question text="Кто такой 'скоморох'?">
+					<answer>Воин</answer>
+					<answer>Кузнец</answer>
+					<answer right="yes">Бродячий актер</answer>
+					<answer>Священник</answer>
+				</question>
+			</level>
+
+			<!-- УРОВЕНЬ 3 (СЛОЖНЫЙ) -->
+			<level difficulty="3">
+				<question text="Что означает поговорка 'Дареному коню в зубы не смотрят'?">
+					<answer>Нельзя проверять подарок</answer>
+					<answer>Нужно быть благодарным</answer>
+					<answer>Подарки не выбирают</answer>
+					<answer right="yes">Подарок не критикуют</answer>
+				</question>
+
+				<question text="Какой предмет считался символом домашнего очага?">
+					<answer>Икона</answer>
+					<answer>Ложка</answer>
+					<answer>Веник</answer>
+					<answer right="yes">Печь</answer>
+				</question>
+
+				<question text="Что такое 'лапти'?">
+					<answer>Верхняя одежда</answer>
+					<answer>Головной убор</answer>
+					<answer right="yes">Обувь из лыка</answer>
+					<answer>Музыкальный инструмент</answer>
+				</question>
+
+				<question text="Какой праздник завершал Масленичную неделю?">
+					<answer>Проводы зимы</answer>
+					<answer right="yes">Прощеное воскресенье</answer>
+					<answer>Чистый понедельник</answer>
+					<answer>Вербное воскресенье</answer>
+				</question>
+
+				<question text="Что такое 'рушник'?">
+					<answer>Скатерть</answer>
+					<answer>Одежда</answer>
+					<answer right="yes">Вышитое полотенце</answer>
+					<answer>Ковер</answer>
+				</question>
+			</level>
+		</topic>
+
+		<!-- ТЕМА 2: РУССКИЕ ЗАГАДКИ -->
+		<topic name="Русские загадки">
+			<level difficulty="1">
+				<question text="Сидит дед, во сто шуб одет. Кто его раздевает, тот слезы проливает. Что это?">
+					<answer>Арбуз</answer>
+					<answer right="yes">Лук</answer>
+					<answer>Чеснок</answer>
+					<answer>Капуста</answer>
+				</question>
+
+				<question text="Зимой и летом одним цветом. Что это?">
+					<answer>Сосна</answer>
+					<answer right="yes">Елка</answer>
+					<answer>Трава</answer>
+					<answer>Море</answer>
+				</question>
+
+				<question text="Не лает, не кусает, а в дом не пускает. Что это?">
+					<answer>Собака</answer>
+					<answer>Охрана</answer>
+					<answer right="yes">Замок</answer>
+					<answer>Дверь</answer>
+				</question>
+
+				<question text="Кто на себе свой дом носит?">
+					<answer>Птица</answer>
+					<answer right="yes">Улитка</answer>
+					<answer>Черепаха</answer>
+					<answer>Рак</answer>
+				</question>
+
+				<question text="Без рук, без ног, а ворота открывает. Что это?">
+					<answer>Ветер</answer>
+					<answer right="yes">Ветер</answer>
+					<answer>Дождь</answer>
+					<answer>Снег</answer>
+				</question>
+			</level>
+
+			<level difficulty="2">
+				<question text="Висит груша, нельзя скушать. Что это?">
+					<answer>Фрукт</answer>
+					<answer>Конфета</answer>
+					<answer right="yes">Лампочка</answer>
+					<answer>Игрушка</answer>
+				</question>
+
+				<question text="В воде родится, а воды боится. Что это?">
+					<answer>Рыба</answer>
+					<answer>Водоросль</answer>
+					<answer right="yes">Соль</answer>
+					<answer>Лед</answer>
+				</question>
+
+				<question text="Сто одежек и все без застежек. Что это?">
+					<answer>Гардероб</answer>
+					<answer>Шкаф</answer>
+					<answer right="yes">Капуста</answer>
+					<answer>Лук</answer>
+				</question>
+			</level>
+		</topic>
+	</topics>
+</game>

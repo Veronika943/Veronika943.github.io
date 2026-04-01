@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <topics>
+    <topic id="1" name="Русские загадки">
+      <description>Загадки русского народа о природе, животных и быте</description>
+      <levels>
+        <level id="1" name="Легкий">
+          <questions>
+            <question id="1" text="Сидит дед, в сто шуб одет, кто его раздевает, тот слезы проливает" image="">
+              <answer right="true">Лук</answer>
+              <answer right="false">Чеснок</answer>
+              <answer right="false">Картофель</answer>
+              <answer right="false">Капуста</answer>
+            </question>
+            <question id="2" text="Зимой и летом одним цветом" image="">
+              <answer right="true">Елка</answer>
+              <answer right="false">Сосна</answer>
+              <answer right="false">Кедр</answer>
+              <answer right="false">Пихта</answer>
+            </question>
+            <question id="3" text="Не лает, не кусает, а в дом не пускает" image="">
+              <answer right="true">Замок</answer>
+              <answer right="false">Собака</answer>
+              <answer right="false">Охрана</answer>
+              <answer right="false">Дверь</answer>
+            </question>
+          </questions>
+        </level>
+        <level id="2" name="Средний">
+          <questions>
+            <question id="4" text="Что можно приготовить, но нельзя съесть?" image="">
+              <answer right="true">Уроки</answer>
+              <answer right="false">Обед</answer>
+              <answer right="false">Завтрак</answer>
+              <answer right="false">Ужин</answer>
+            </question>
+          </questions>
+        </level>
+        <level id="3" name="Сложный">
+          <questions>
+            <question id="5" text="Какое слово начинается с трех букв «г» и заканчивается тремя буквами «я»?" image="">
+              <answer right="true">Тригонометрия</answer>
+              <answer right="false">География</answer>
+              <answer right="false">Грамматика</answer>
+              <answer right="false">Геометрия</answer>
+            </question>
+          </questions>
+        </level>
+      </levels>
+    </topic>
+    <topic id="2" name="Русские обычаи и традиции">
+      <description>Традиции и обычаи русского народа</description>
+      <levels>
+        <level id="1" name="Легкий">
+          <questions>
+            <question id="6" text="Как называется русский праздник проводов зимы?" image="">
+              <answer right="true">Масленица</answer>
+              <answer right="false">Пасха</answer>
+              <answer right="false">Рождество</answer>
+              <answer right="false">Иван Купала</answer>
+            </question>
+          </questions>
+        </level>
+        <level id="2" name="Средний">
+          <questions>
+            <question id="7" text="В какой праздник принято красить яйца?" image="">
+              <answer right="true">Пасха</answer>
+              <answer right="false">Рождество</answer>
+              <answer right="false">Троица</answer>
+              <answer right="false">Крещение</answer>
+            </question>
+          </questions>
+        </level>
+        <level id="3" name="Сложный">
+          <questions>
+            <question id="8" text="Как назывался обряд, когда жених похищал невесту?" image="">
+              <answer right="true">Умыкание</answer>
+              <answer right="false">Сватовство</answer>
+              <answer right="false">Сговор</answer>
+              <answer right="false">Помолвка</answer>
+            </question>
+          </questions>
+        </level>
+      </levels>
+    </topic>
+  </topics>
+</quiz>

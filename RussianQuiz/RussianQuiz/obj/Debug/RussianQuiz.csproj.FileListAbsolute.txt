@@ -1,0 +1,9 @@
+E:\уп\RussianQuiz\RussianQuiz\obj\Debug\RussianQuiz.csproj.AssemblyReference.cache
+E:\уп\RussianQuiz\RussianQuiz\obj\Debug\RussianQuiz.Properties.Resources.resources
+E:\уп\RussianQuiz\RussianQuiz\obj\Debug\RussianQuiz.csproj.GenerateResource.cache
+E:\уп\RussianQuiz\RussianQuiz\obj\Debug\RussianQuiz.csproj.CoreCompileInputs.cache
+E:\уп\RussianQuiz\RussianQuiz\bin\Debug\RussianQuiz.exe.config
+E:\уп\RussianQuiz\RussianQuiz\bin\Debug\RussianQuiz.exe
+E:\уп\RussianQuiz\RussianQuiz\bin\Debug\RussianQuiz.pdb
+E:\уп\RussianQuiz\RussianQuiz\obj\Debug\RussianQuiz.exe
+E:\уп\RussianQuiz\RussianQuiz\obj\Debug\RussianQuiz.pdb

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+	<topics>
+		<topic id="1" name="Русские загадки">
+			<description>Загадки русского народа о природе, животных и быте</description>
+			<levels>
+				<level id="1" name="Легкий">
+					<questions>
+						<question id="1" text="Сидит дед, в сто шуб одет, кто его раздевает, тот слезы проливает" image="">
+							<answer right="true">Лук</answer>
+							<answer right="false">Чеснок</answer>
+							<answer right="false">Картофель</answer>
+							<answer right="false">Капуста</answer>
+						</question>
+						<question id="2" text="Зимой и летом одним цветом" image="">
+							<answer right="true">Елка</answer>
+							<answer right="false">Сосна</answer>
+							<answer right="false">Кедр</answer>
+							<answer right="false">Пихта</answer>
+						</question>
+						<question id="3" text="Не лает, не кусает, а в дом не пускает" image="">
+							<answer right="true">Замок</answer>
+							<answer right="false">Собака</answer>
+							<answer right="false">Охрана</answer>
+							<answer right="false">Дверь</answer>
+						</question>
+						<question id="4" text="Без рук, без ног, а ворота открывает" image="">
+							<answer right="true">Ветер</answer>
+							<answer right="false">Дождь</answer>
+							<answer right="false">Снег</answer>
+							<answer right="false">Туман</answer>
+						</question>
+						<question id="5" text="Красна девица сидит в темнице, а коса на улице" image="">
+							<answer right="true">Морковь</answer>
+							<answer right="false">Свекла</answer>
+							<answer right="false">Редиска</answer>
+							<answer right="false">Репа</answer>
+						</question>
+						<question id="6" text="Сто одежек и все без застежек" image="">
+							<answer right="true">Капуста</answer>
+							<answer right="false">Лук</answer>
+							<answer right="false">Салат</answer>
+							<answer right="false">Артишок</answer>
+						</question>
+						<question id="7" text="Черный Ивашка, деревянная рубашка, где носом проведет, там заметку кладет" image="">
+							<answer right="true">Карандаш</answer>
+							<answer right="false">Ручка</answer>
+							<answer right="false">Мел</answer>
+							<answer right="false">Кисть</answer>
+						</question>
+						<question id="8" text="В воде родится, а воды боится" image="">
+							<answer right="true">Соль</answer>
+							<answer right="false">Сахар</answer>
+							<answer right="false">Лед</answer>
+							<answer right="false">Рыба</answer>
+						</question>
+						<question id="9" text="Не огонь, а жжется" image="">
+							<answer right="true">Крапива</answer>
+							<answer right="false">Перец</answer>
+							<answer right="false">Мороз</answer>
+							<answer right="false">Солнце</answer>
+						</question>
+						<question id="10" text="Всю жизнь ходят в обгонку, а обогнать друг друга не могут" image="">
+							<answer right="true">Ноги</answer>
+							<answer right="false">Часы</answer>
+							<answer right="false">Колеса</answer>
+							<answer right="false">Лыжи</answer>
+						</question>
+					</questions>
+				</level>
+				<level id="2" name="Средний">
+					<questions>
+						<question id="11" text="Что можно приготовить, но нельзя съесть?" image="">
+							<answer right="true">Уроки</answer>
+							<answer right="false">Обед</answer>
+							<answer right="false">Завтрак</answer>
+							<answer right="false">Ужин</answer>
+						</question>
+						<question id="12" text="Чем больше из нее берешь, тем больше она становится" image="">
+							<answer right="true">Яма</answer>
+							<answer right="false">Копилка</answer>
+							<answer right="false">Река</answer>
+							<answer right="false">Сумка</answer>
+						</question>
+						<question id="13" text="Что у человека под ногами, когда он идет по мосту?" image="">
+							<answer right="true">Подошва обуви</answer>
+							<answer right="false">Земля</answer>
+							<answer right="false">Вода</answer>
+							<answer right="false">Тень</answer>
+						</question>
+						<question id="14" text="На какой вопрос нельзя ответить «да»?" image="">
+							<answer right="true">Ты спишь?</answer>
+							<answer right="false">Ты живешь?</answer>
+							<answer right="false">Ты человек?</answer>
+							<answer right="false">Ты здесь?</answer>
+						</question>
+						<question id="15" text="Что можно увидеть с закрытыми глазами?" image="">
+							<answer right="true">Сон</answer>
+							<answer right="false">Темноту</answer>
+							<answer right="false">Свет</answer>
+							<answer right="false">Ничего</answer>
+						</question>
+					</questions>
+				</level>
+				<level id="3" name="Сложный">
+					<questions>
+						<question id="16" text="Какое слово начинается с трех букв «г» и заканчивается тремя буквами «я»?" image="">
+							<answer right="true">Тригонометрия</answer>
+							<answer right="false">География</answer>
+							<answer right="false">Грамматика</answer>
+							<answer right="false">Геометрия</answer>
+						</question>
+						<question id="17" text="Что не войдет в самую большую кастрюлю?" image="">
+							<answer right="true">Ее крышка</answer>
+							<answer right="false">Вода</answer>
+							<answer right="false">Воздух</answer>
+							<answer right="false">Свет</answer>
+						</question>
+						<question id="18" text="Из какого полотна нельзя сшить рубашку?" image="">
+							<answer right="true">Из железнодорожного</answer>
+							<answer right="false">Из льняного</answer>
+							<answer right="false">Из шелкового</answer>
+							<answer right="false">Из хлопкового</answer>
+						</question>
+					</questions>
+				</level>
+			</levels>
+		</topic>
+		<topic id="2" name="Русские обычаи и традиции">
+			<description>Традиции и обычаи русского народа</description>
+			<levels>
+				<level id="1" name="Легкий">
+					<questions>
+						<question id="19" text="Как называется русский праздник проводов зимы?" image="">
+							<answer right="true">Масленица</answer>
+							<answer right="false">Пасха</answer>
+							<answer right="false">Рождество</answer>
+							<answer right="false">Иван Купала</answer>
+						</question>
+						<question id="20" text="Что пекут на Масленицу?" image="">
+							<answer right="true">Блины</answer>
+							<answer right="false">Пироги</answer>
+							<answer right="false">Куличи</answer>
+							<answer right="false">Пряники</answer>
+						</question>
+					</questions>
+				</level>
+				<level id="2" name="Средний">
+					<questions>
+						<question id="21" text="В какой праздник принято красить яйца?" image="">
+							<answer right="true">Пасха</answer>
+							<answer right="false">Рождество</answer>
+							<answer right="false">Троица</answer>
+							<answer right="false">Крещение</answer>
+						</question>
+					</questions>
+				</level>
+				<level id="3" name="Сложный">
+					<questions>
+						<question id="22" text="Как назывался обряд, когда жених похищал невесту?" image="">
+							<answer right="true">Умыкание</answer>
+							<answer right="false">Сватовство</answer>
+							<answer right="false">Сговор</answer>
+							<answer right="false">Помолвка</answer>
+						</question>
+					</questions>
+				</level>
+			</levels>
+		</topic>
+	</topics>
+</quiz>

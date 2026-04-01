@@ -1,0 +1,9 @@
+E:\уп\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.AssemblyReference.cache
+E:\уп\VectorEditor\VectorEditor\obj\Debug\VectorEditor.Properties.Resources.resources
+E:\уп\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.GenerateResource.cache
+E:\уп\VectorEditor\VectorEditor\obj\Debug\VectorEditor.csproj.CoreCompileInputs.cache
+E:\уп\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe.config
+E:\уп\VectorEditor\VectorEditor\bin\Debug\VectorEditor.exe
+E:\уп\VectorEditor\VectorEditor\bin\Debug\VectorEditor.pdb
+E:\уп\VectorEditor\VectorEditor\obj\Debug\VectorEditor.exe
+E:\уп\VectorEditor\VectorEditor\obj\Debug\VectorEditor.pdb

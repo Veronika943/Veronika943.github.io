@@ -1,0 +1,9 @@
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\bin\Debug\PairGame.exe.config
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\bin\Debug\PairGame.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\bin\Debug\PairGame.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\obj\Debug\PairGame.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\obj\Debug\PairGame.Properties.Resources.resources
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\obj\Debug\PairGame.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\obj\Debug\PairGame.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\obj\Debug\PairGame.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\PairGame\PairGame\obj\Debug\PairGame.pdb
